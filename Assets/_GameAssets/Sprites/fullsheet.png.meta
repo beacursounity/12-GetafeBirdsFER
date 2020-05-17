@@ -1,212 +1,618 @@
 fileFormatVersion: 2
 guid: 026d6b3dec522aa4aaf16a160b33c649
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: fullsheet_0
-    21300002: fullsheet_1
-    21300004: fullsheet_2
-    21300006: fullsheet_3
-    21300008: fullsheet_4
-    21300010: fullsheet_5
-    21300012: fullsheet_6
-    21300014: fullsheet_7
-    21300016: fullsheet_8
-    21300018: fullsheet_9
-    21300020: fullsheet_10
-    21300022: fullsheet_11
-    21300024: fullsheet_12
-    21300026: fullsheet_13
-    21300028: fullsheet_14
-    21300030: fullsheet_15
-    21300032: fullsheet_16
-    21300034: fullsheet_17
-    21300036: fullsheet_18
-    21300038: fullsheet_19
-    21300040: fullsheet_20
-    21300042: fullsheet_21
-    21300044: fullsheet_22
-    21300046: fullsheet_23
-    21300048: fullsheet_24
-    21300050: fullsheet_25
-    21300052: fullsheet_26
-    21300054: fullsheet_27
-    21300056: fullsheet_28
-    21300058: fullsheet_29
-    21300060: fullsheet_30
-    21300062: fullsheet_31
-    21300064: fullsheet_32
-    21300066: fullsheet_33
-    21300068: fullsheet_34
-    21300070: fullsheet_35
-    21300072: fullsheet_36
-    21300074: fullsheet_37
-    21300076: fullsheet_38
-    21300078: fullsheet_39
-    21300080: fullsheet_40
-    21300082: fullsheet_41
-    21300084: fullsheet_42
-    21300086: fullsheet_43
-    21300088: fullsheet_44
-    21300090: fullsheet_45
-    21300092: fullsheet_46
-    21300094: fullsheet_47
-    21300096: fullsheet_48
-    21300098: fullsheet_49
-    21300100: fullsheet_50
-    21300102: fullsheet_51
-    21300104: fullsheet_52
-    21300106: fullsheet_53
-    21300108: fullsheet_54
-    21300110: fullsheet_55
-    21300112: fullsheet_56
-    21300114: fullsheet_57
-    21300116: fullsheet_58
-    21300118: fullsheet_59
-    21300120: fullsheet_60
-    21300122: fullsheet_61
-    21300124: fullsheet_62
-    21300126: fullsheet_63
-    21300128: fullsheet_64
-    21300130: fullsheet_65
-    21300132: fullsheet_66
-    21300134: fullsheet_67
-    21300136: fullsheet_68
-    21300138: fullsheet_69
-    21300140: fullsheet_70
-    21300142: fullsheet_71
-    21300144: fullsheet_72
-    21300146: fullsheet_73
-    21300148: fullsheet_74
-    21300150: fullsheet_75
-    21300152: fullsheet_76
-    21300154: fullsheet_77
-    21300156: fullsheet_78
-    21300158: fullsheet_79
-    21300160: fullsheet_80
-    21300162: fullsheet_81
-    21300164: fullsheet_82
-    21300166: fullsheet_83
-    21300168: fullsheet_84
-    21300170: fullsheet_85
-    21300172: fullsheet_86
-    21300174: fullsheet_87
-    21300176: fullsheet_88
-    21300178: fullsheet_89
-    21300180: fullsheet_90
-    21300182: fullsheet_91
-    21300184: fullsheet_92
-    21300186: fullsheet_93
-    21300188: fullsheet_94
-    21300190: fullsheet_95
-    21300192: fullsheet_96
-    21300194: fullsheet_97
-    21300196: fullsheet_98
-    21300198: fullsheet_99
-    21300200: fullsheet_100
-    21300202: fullsheet_101
-    21300204: fullsheet_102
-    21300206: fullsheet_103
-    21300208: fullsheet_104
-    21300210: fullsheet_105
-    21300212: fullsheet_106
-    21300214: fullsheet_107
-    21300216: fullsheet_108
-    21300218: fullsheet_109
-    21300220: fullsheet_110
-    21300222: fullsheet_111
-    21300224: fullsheet_112
-    21300226: fullsheet_113
-    21300228: fullsheet_114
-    21300230: fullsheet_115
-    21300232: fullsheet_116
-    21300234: fullsheet_117
-    21300236: fullsheet_118
-    21300238: fullsheet_119
-    21300240: fullsheet_120
-    21300242: fullsheet_121
-    21300244: fullsheet_122
-    21300246: fullsheet_123
-    21300248: fullsheet_124
-    21300250: fullsheet_125
-    21300252: fullsheet_126
-    21300254: fullsheet_127
-    21300256: fullsheet_128
-    21300258: fullsheet_129
-    21300260: fullsheet_130
-    21300262: fullsheet_131
-    21300264: fullsheet_132
-    21300266: fullsheet_133
-    21300268: fullsheet_134
-    21300270: fullsheet_135
-    21300272: fullsheet_136
-    21300274: fullsheet_137
-    21300276: fullsheet_138
-    21300278: fullsheet_139
-    21300280: fullsheet_140
-    21300282: fullsheet_141
-    21300284: fullsheet_142
-    21300286: fullsheet_143
-    21300288: fullsheet_144
-    21300290: fullsheet_145
-    21300292: fullsheet_146
-    21300294: fullsheet_147
-    21300296: fullsheet_148
-    21300298: fullsheet_149
-    21300300: fullsheet_150
-    21300302: fullsheet_151
-    21300304: fullsheet_152
-    21300306: fullsheet_153
-    21300308: fullsheet_154
-    21300310: fullsheet_155
-    21300312: fullsheet_156
-    21300314: fullsheet_157
-    21300316: fullsheet_158
-    21300318: fullsheet_159
-    21300320: fullsheet_160
-    21300322: fullsheet_161
-    21300324: fullsheet_162
-    21300326: fullsheet_163
-    21300328: fullsheet_164
-    21300330: fullsheet_165
-    21300332: fullsheet_166
-    21300334: fullsheet_167
-    21300336: fullsheet_168
-    21300338: fullsheet_169
-    21300340: fullsheet_170
-    21300342: fullsheet_171
-    21300344: fullsheet_172
-    21300346: fullsheet_173
-    21300348: fullsheet_174
-    21300350: fullsheet_175
-    21300352: fullsheet_176
-    21300354: fullsheet_177
-    21300356: fullsheet_178
-    21300358: fullsheet_179
-    21300360: fullsheet_180
-    21300362: fullsheet_181
-    21300364: fullsheet_182
-    21300366: fullsheet_183
-    21300368: fullsheet_184
-    21300370: fullsheet_185
-    21300372: fullsheet_186
-    21300374: fullsheet_187
-    21300376: fullsheet_188
-    21300378: fullsheet_189
-    21300380: fullsheet_190
-    21300382: fullsheet_191
-    21300384: fullsheet_192
-    21300386: fullsheet_193
-    21300388: fullsheet_194
-    21300390: fullsheet_195
-    21300392: fullsheet_196
-    21300394: fullsheet_197
-    21300396: fullsheet_198
-    21300398: fullsheet_199
-    21300400: fullsheet_200
-    21300402: fullsheet_201
-    21300404: fullsheet_202
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: fullsheet_0
+  - first:
+      213: 21300002
+    second: fullsheet_1
+  - first:
+      213: 21300004
+    second: fullsheet_2
+  - first:
+      213: 21300006
+    second: fullsheet_3
+  - first:
+      213: 21300008
+    second: fullsheet_4
+  - first:
+      213: 21300010
+    second: fullsheet_5
+  - first:
+      213: 21300012
+    second: fullsheet_6
+  - first:
+      213: 21300014
+    second: fullsheet_7
+  - first:
+      213: 21300016
+    second: fullsheet_8
+  - first:
+      213: 21300018
+    second: fullsheet_9
+  - first:
+      213: 21300020
+    second: fullsheet_10
+  - first:
+      213: 21300022
+    second: fullsheet_11
+  - first:
+      213: 21300024
+    second: fullsheet_12
+  - first:
+      213: 21300026
+    second: fullsheet_13
+  - first:
+      213: 21300028
+    second: fullsheet_14
+  - first:
+      213: 21300030
+    second: fullsheet_15
+  - first:
+      213: 21300032
+    second: fullsheet_16
+  - first:
+      213: 21300034
+    second: fullsheet_17
+  - first:
+      213: 21300036
+    second: fullsheet_18
+  - first:
+      213: 21300038
+    second: fullsheet_19
+  - first:
+      213: 21300040
+    second: fullsheet_20
+  - first:
+      213: 21300042
+    second: fullsheet_21
+  - first:
+      213: 21300044
+    second: fullsheet_22
+  - first:
+      213: 21300046
+    second: fullsheet_23
+  - first:
+      213: 21300048
+    second: fullsheet_24
+  - first:
+      213: 21300050
+    second: fullsheet_25
+  - first:
+      213: 21300052
+    second: fullsheet_26
+  - first:
+      213: 21300054
+    second: fullsheet_27
+  - first:
+      213: 21300056
+    second: fullsheet_28
+  - first:
+      213: 21300058
+    second: fullsheet_29
+  - first:
+      213: 21300060
+    second: fullsheet_30
+  - first:
+      213: 21300062
+    second: fullsheet_31
+  - first:
+      213: 21300064
+    second: fullsheet_32
+  - first:
+      213: 21300066
+    second: fullsheet_33
+  - first:
+      213: 21300068
+    second: fullsheet_34
+  - first:
+      213: 21300070
+    second: fullsheet_35
+  - first:
+      213: 21300072
+    second: fullsheet_36
+  - first:
+      213: 21300074
+    second: fullsheet_37
+  - first:
+      213: 21300076
+    second: fullsheet_38
+  - first:
+      213: 21300078
+    second: fullsheet_39
+  - first:
+      213: 21300080
+    second: fullsheet_40
+  - first:
+      213: 21300082
+    second: fullsheet_41
+  - first:
+      213: 21300084
+    second: fullsheet_42
+  - first:
+      213: 21300086
+    second: fullsheet_43
+  - first:
+      213: 21300088
+    second: fullsheet_44
+  - first:
+      213: 21300090
+    second: fullsheet_45
+  - first:
+      213: 21300092
+    second: fullsheet_46
+  - first:
+      213: 21300094
+    second: fullsheet_47
+  - first:
+      213: 21300096
+    second: fullsheet_48
+  - first:
+      213: 21300098
+    second: fullsheet_49
+  - first:
+      213: 21300100
+    second: fullsheet_50
+  - first:
+      213: 21300102
+    second: fullsheet_51
+  - first:
+      213: 21300104
+    second: fullsheet_52
+  - first:
+      213: 21300106
+    second: fullsheet_53
+  - first:
+      213: 21300108
+    second: fullsheet_54
+  - first:
+      213: 21300110
+    second: fullsheet_55
+  - first:
+      213: 21300112
+    second: fullsheet_56
+  - first:
+      213: 21300114
+    second: fullsheet_57
+  - first:
+      213: 21300116
+    second: fullsheet_58
+  - first:
+      213: 21300118
+    second: fullsheet_59
+  - first:
+      213: 21300120
+    second: fullsheet_60
+  - first:
+      213: 21300122
+    second: fullsheet_61
+  - first:
+      213: 21300124
+    second: fullsheet_62
+  - first:
+      213: 21300126
+    second: fullsheet_63
+  - first:
+      213: 21300128
+    second: fullsheet_64
+  - first:
+      213: 21300130
+    second: fullsheet_65
+  - first:
+      213: 21300132
+    second: fullsheet_66
+  - first:
+      213: 21300134
+    second: fullsheet_67
+  - first:
+      213: 21300136
+    second: fullsheet_68
+  - first:
+      213: 21300138
+    second: fullsheet_69
+  - first:
+      213: 21300140
+    second: fullsheet_70
+  - first:
+      213: 21300142
+    second: fullsheet_71
+  - first:
+      213: 21300144
+    second: fullsheet_72
+  - first:
+      213: 21300146
+    second: fullsheet_73
+  - first:
+      213: 21300148
+    second: fullsheet_74
+  - first:
+      213: 21300150
+    second: fullsheet_75
+  - first:
+      213: 21300152
+    second: fullsheet_76
+  - first:
+      213: 21300154
+    second: fullsheet_77
+  - first:
+      213: 21300156
+    second: fullsheet_78
+  - first:
+      213: 21300158
+    second: fullsheet_79
+  - first:
+      213: 21300160
+    second: fullsheet_80
+  - first:
+      213: 21300162
+    second: fullsheet_81
+  - first:
+      213: 21300164
+    second: fullsheet_82
+  - first:
+      213: 21300166
+    second: fullsheet_83
+  - first:
+      213: 21300168
+    second: fullsheet_84
+  - first:
+      213: 21300170
+    second: fullsheet_85
+  - first:
+      213: 21300172
+    second: fullsheet_86
+  - first:
+      213: 21300174
+    second: fullsheet_87
+  - first:
+      213: 21300176
+    second: fullsheet_88
+  - first:
+      213: 21300178
+    second: fullsheet_89
+  - first:
+      213: 21300180
+    second: fullsheet_90
+  - first:
+      213: 21300182
+    second: fullsheet_91
+  - first:
+      213: 21300184
+    second: fullsheet_92
+  - first:
+      213: 21300186
+    second: fullsheet_93
+  - first:
+      213: 21300188
+    second: fullsheet_94
+  - first:
+      213: 21300190
+    second: fullsheet_95
+  - first:
+      213: 21300192
+    second: fullsheet_96
+  - first:
+      213: 21300194
+    second: fullsheet_97
+  - first:
+      213: 21300196
+    second: fullsheet_98
+  - first:
+      213: 21300198
+    second: fullsheet_99
+  - first:
+      213: 21300200
+    second: fullsheet_100
+  - first:
+      213: 21300202
+    second: fullsheet_101
+  - first:
+      213: 21300204
+    second: fullsheet_102
+  - first:
+      213: 21300206
+    second: fullsheet_103
+  - first:
+      213: 21300208
+    second: fullsheet_104
+  - first:
+      213: 21300210
+    second: fullsheet_105
+  - first:
+      213: 21300212
+    second: fullsheet_106
+  - first:
+      213: 21300214
+    second: fullsheet_107
+  - first:
+      213: 21300216
+    second: fullsheet_108
+  - first:
+      213: 21300218
+    second: fullsheet_109
+  - first:
+      213: 21300220
+    second: fullsheet_110
+  - first:
+      213: 21300222
+    second: fullsheet_111
+  - first:
+      213: 21300224
+    second: fullsheet_112
+  - first:
+      213: 21300226
+    second: fullsheet_113
+  - first:
+      213: 21300228
+    second: fullsheet_114
+  - first:
+      213: 21300230
+    second: fullsheet_115
+  - first:
+      213: 21300232
+    second: fullsheet_116
+  - first:
+      213: 21300234
+    second: fullsheet_117
+  - first:
+      213: 21300236
+    second: fullsheet_118
+  - first:
+      213: 21300238
+    second: fullsheet_119
+  - first:
+      213: 21300240
+    second: fullsheet_120
+  - first:
+      213: 21300242
+    second: fullsheet_121
+  - first:
+      213: 21300244
+    second: fullsheet_122
+  - first:
+      213: 21300246
+    second: fullsheet_123
+  - first:
+      213: 21300248
+    second: fullsheet_124
+  - first:
+      213: 21300250
+    second: fullsheet_125
+  - first:
+      213: 21300252
+    second: fullsheet_126
+  - first:
+      213: 21300254
+    second: fullsheet_127
+  - first:
+      213: 21300256
+    second: fullsheet_128
+  - first:
+      213: 21300258
+    second: fullsheet_129
+  - first:
+      213: 21300260
+    second: fullsheet_130
+  - first:
+      213: 21300262
+    second: fullsheet_131
+  - first:
+      213: 21300264
+    second: fullsheet_132
+  - first:
+      213: 21300266
+    second: fullsheet_133
+  - first:
+      213: 21300268
+    second: fullsheet_134
+  - first:
+      213: 21300270
+    second: fullsheet_135
+  - first:
+      213: 21300272
+    second: fullsheet_136
+  - first:
+      213: 21300274
+    second: fullsheet_137
+  - first:
+      213: 21300276
+    second: fullsheet_138
+  - first:
+      213: 21300278
+    second: fullsheet_139
+  - first:
+      213: 21300280
+    second: fullsheet_140
+  - first:
+      213: 21300282
+    second: fullsheet_141
+  - first:
+      213: 21300284
+    second: fullsheet_142
+  - first:
+      213: 21300286
+    second: fullsheet_143
+  - first:
+      213: 21300288
+    second: fullsheet_144
+  - first:
+      213: 21300290
+    second: fullsheet_145
+  - first:
+      213: 21300292
+    second: fullsheet_146
+  - first:
+      213: 21300294
+    second: fullsheet_147
+  - first:
+      213: 21300296
+    second: fullsheet_148
+  - first:
+      213: 21300298
+    second: fullsheet_149
+  - first:
+      213: 21300300
+    second: fullsheet_150
+  - first:
+      213: 21300302
+    second: fullsheet_151
+  - first:
+      213: 21300304
+    second: fullsheet_152
+  - first:
+      213: 21300306
+    second: fullsheet_153
+  - first:
+      213: 21300308
+    second: fullsheet_154
+  - first:
+      213: 21300310
+    second: fullsheet_155
+  - first:
+      213: 21300312
+    second: fullsheet_156
+  - first:
+      213: 21300314
+    second: fullsheet_157
+  - first:
+      213: 21300316
+    second: fullsheet_158
+  - first:
+      213: 21300318
+    second: fullsheet_159
+  - first:
+      213: 21300320
+    second: fullsheet_160
+  - first:
+      213: 21300322
+    second: fullsheet_161
+  - first:
+      213: 21300324
+    second: fullsheet_162
+  - first:
+      213: 21300326
+    second: fullsheet_163
+  - first:
+      213: 21300328
+    second: fullsheet_164
+  - first:
+      213: 21300330
+    second: fullsheet_165
+  - first:
+      213: 21300332
+    second: fullsheet_166
+  - first:
+      213: 21300334
+    second: fullsheet_167
+  - first:
+      213: 21300336
+    second: fullsheet_168
+  - first:
+      213: 21300338
+    second: fullsheet_169
+  - first:
+      213: 21300340
+    second: fullsheet_170
+  - first:
+      213: 21300342
+    second: fullsheet_171
+  - first:
+      213: 21300344
+    second: fullsheet_172
+  - first:
+      213: 21300346
+    second: fullsheet_173
+  - first:
+      213: 21300348
+    second: fullsheet_174
+  - first:
+      213: 21300350
+    second: fullsheet_175
+  - first:
+      213: 21300352
+    second: fullsheet_176
+  - first:
+      213: 21300354
+    second: fullsheet_177
+  - first:
+      213: 21300356
+    second: fullsheet_178
+  - first:
+      213: 21300358
+    second: fullsheet_179
+  - first:
+      213: 21300360
+    second: fullsheet_180
+  - first:
+      213: 21300362
+    second: fullsheet_181
+  - first:
+      213: 21300364
+    second: fullsheet_182
+  - first:
+      213: 21300366
+    second: fullsheet_183
+  - first:
+      213: 21300368
+    second: fullsheet_184
+  - first:
+      213: 21300370
+    second: fullsheet_185
+  - first:
+      213: 21300372
+    second: fullsheet_186
+  - first:
+      213: 21300374
+    second: fullsheet_187
+  - first:
+      213: 21300376
+    second: fullsheet_188
+  - first:
+      213: 21300378
+    second: fullsheet_189
+  - first:
+      213: 21300380
+    second: fullsheet_190
+  - first:
+      213: 21300382
+    second: fullsheet_191
+  - first:
+      213: 21300384
+    second: fullsheet_192
+  - first:
+      213: 21300386
+    second: fullsheet_193
+  - first:
+      213: 21300388
+    second: fullsheet_194
+  - first:
+      213: 21300390
+    second: fullsheet_195
+  - first:
+      213: 21300392
+    second: fullsheet_196
+  - first:
+      213: 21300394
+    second: fullsheet_197
+  - first:
+      213: 21300396
+    second: fullsheet_198
+  - first:
+      213: 21300398
+    second: fullsheet_199
+  - first:
+      213: 21300400
+    second: fullsheet_200
+  - first:
+      213: 21300402
+    second: fullsheet_201
+  - first:
+      213: 21300404
+    second: fullsheet_202
   externalObjects: {}
-  serializedVersion: 4
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -224,6 +630,8 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -234,7 +642,7 @@ TextureImporter:
     serializedVersion: 2
     filterMode: -1
     aniso: -1
-    mipBias: -1
+    mipBias: -100
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -254,11 +662,14 @@ TextureImporter:
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  applyGammaDecoding: 1
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -268,7 +679,9 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - buildTarget: Standalone
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -278,7 +691,9 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - buildTarget: iPhone
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -288,7 +703,9 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - buildTarget: tvOS
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: tvOS
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -298,7 +715,9 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - buildTarget: Android
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -308,7 +727,9 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - buildTarget: Windows Store Apps
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -318,7 +739,9 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - buildTarget: WebGL
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -328,6 +751,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -345,6 +769,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_1
       rect:
@@ -359,6 +790,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_2
       rect:
@@ -373,6 +811,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_3
       rect:
@@ -387,6 +832,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_4
       rect:
@@ -401,6 +853,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_5
       rect:
@@ -415,6 +874,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_6
       rect:
@@ -429,6 +895,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_7
       rect:
@@ -443,6 +916,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_8
       rect:
@@ -457,6 +937,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_9
       rect:
@@ -471,6 +958,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_10
       rect:
@@ -485,6 +979,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_11
       rect:
@@ -499,6 +1000,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_12
       rect:
@@ -513,6 +1021,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_13
       rect:
@@ -527,6 +1042,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_14
       rect:
@@ -541,6 +1063,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_15
       rect:
@@ -555,6 +1084,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_16
       rect:
@@ -569,6 +1105,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_17
       rect:
@@ -583,6 +1126,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_18
       rect:
@@ -597,6 +1147,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_19
       rect:
@@ -611,6 +1168,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_20
       rect:
@@ -625,6 +1189,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_21
       rect:
@@ -639,6 +1210,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_22
       rect:
@@ -653,6 +1231,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_23
       rect:
@@ -667,6 +1252,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_24
       rect:
@@ -681,6 +1273,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_25
       rect:
@@ -695,6 +1294,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_26
       rect:
@@ -709,6 +1315,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_27
       rect:
@@ -723,6 +1336,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_28
       rect:
@@ -737,6 +1357,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_29
       rect:
@@ -751,6 +1378,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_30
       rect:
@@ -765,6 +1399,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_31
       rect:
@@ -779,6 +1420,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_32
       rect:
@@ -793,6 +1441,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_33
       rect:
@@ -807,6 +1462,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_34
       rect:
@@ -821,6 +1483,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_35
       rect:
@@ -835,6 +1504,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_36
       rect:
@@ -849,6 +1525,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_37
       rect:
@@ -863,6 +1546,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_38
       rect:
@@ -877,6 +1567,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_39
       rect:
@@ -891,6 +1588,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_40
       rect:
@@ -905,6 +1609,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_41
       rect:
@@ -919,6 +1630,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_42
       rect:
@@ -933,6 +1651,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_43
       rect:
@@ -947,6 +1672,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_44
       rect:
@@ -961,6 +1693,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_45
       rect:
@@ -975,6 +1714,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_46
       rect:
@@ -989,6 +1735,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_47
       rect:
@@ -1003,6 +1756,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_48
       rect:
@@ -1017,6 +1777,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_49
       rect:
@@ -1031,6 +1798,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_50
       rect:
@@ -1045,6 +1819,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_51
       rect:
@@ -1059,6 +1840,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_52
       rect:
@@ -1073,6 +1861,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_53
       rect:
@@ -1087,6 +1882,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_54
       rect:
@@ -1101,6 +1903,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_55
       rect:
@@ -1115,6 +1924,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_56
       rect:
@@ -1129,6 +1945,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_57
       rect:
@@ -1143,6 +1966,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_58
       rect:
@@ -1157,6 +1987,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_59
       rect:
@@ -1171,6 +2008,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_60
       rect:
@@ -1185,6 +2029,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_61
       rect:
@@ -1199,6 +2050,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_62
       rect:
@@ -1213,6 +2071,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_63
       rect:
@@ -1227,6 +2092,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_64
       rect:
@@ -1241,6 +2113,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_65
       rect:
@@ -1255,6 +2134,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_66
       rect:
@@ -1269,6 +2155,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_67
       rect:
@@ -1283,6 +2176,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_68
       rect:
@@ -1297,6 +2197,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_69
       rect:
@@ -1311,6 +2218,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_70
       rect:
@@ -1325,6 +2239,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_71
       rect:
@@ -1339,6 +2260,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_72
       rect:
@@ -1353,6 +2281,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_73
       rect:
@@ -1367,6 +2302,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_74
       rect:
@@ -1381,6 +2323,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_75
       rect:
@@ -1395,6 +2344,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_76
       rect:
@@ -1409,6 +2365,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_77
       rect:
@@ -1423,6 +2386,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_78
       rect:
@@ -1437,6 +2407,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_79
       rect:
@@ -1451,6 +2428,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_80
       rect:
@@ -1465,6 +2449,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_81
       rect:
@@ -1479,6 +2470,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_82
       rect:
@@ -1493,6 +2491,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_83
       rect:
@@ -1507,6 +2512,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_84
       rect:
@@ -1521,6 +2533,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_85
       rect:
@@ -1535,6 +2554,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_86
       rect:
@@ -1549,6 +2575,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_87
       rect:
@@ -1563,6 +2596,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_88
       rect:
@@ -1577,6 +2617,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_89
       rect:
@@ -1591,6 +2638,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_90
       rect:
@@ -1605,6 +2659,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_91
       rect:
@@ -1619,6 +2680,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_92
       rect:
@@ -1633,6 +2701,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_93
       rect:
@@ -1647,6 +2722,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_94
       rect:
@@ -1661,6 +2743,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_95
       rect:
@@ -1675,6 +2764,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_96
       rect:
@@ -1689,6 +2785,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_97
       rect:
@@ -1703,6 +2806,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_98
       rect:
@@ -1717,6 +2827,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_99
       rect:
@@ -1731,6 +2848,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_100
       rect:
@@ -1745,6 +2869,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_101
       rect:
@@ -1759,6 +2890,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_102
       rect:
@@ -1773,6 +2911,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_103
       rect:
@@ -1787,6 +2932,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_104
       rect:
@@ -1801,6 +2953,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_105
       rect:
@@ -1815,6 +2974,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_106
       rect:
@@ -1829,6 +2995,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_107
       rect:
@@ -1843,6 +3016,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_108
       rect:
@@ -1857,6 +3037,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_109
       rect:
@@ -1871,6 +3058,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_110
       rect:
@@ -1885,6 +3079,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_111
       rect:
@@ -1899,6 +3100,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_112
       rect:
@@ -1913,6 +3121,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_113
       rect:
@@ -1927,6 +3142,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_114
       rect:
@@ -1941,6 +3163,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_115
       rect:
@@ -1955,6 +3184,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_116
       rect:
@@ -1969,6 +3205,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_117
       rect:
@@ -1983,6 +3226,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_118
       rect:
@@ -1997,6 +3247,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_119
       rect:
@@ -2011,6 +3268,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_120
       rect:
@@ -2025,6 +3289,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_121
       rect:
@@ -2039,6 +3310,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_122
       rect:
@@ -2053,6 +3331,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_123
       rect:
@@ -2067,6 +3352,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_124
       rect:
@@ -2081,6 +3373,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_125
       rect:
@@ -2095,6 +3394,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_126
       rect:
@@ -2109,6 +3415,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_127
       rect:
@@ -2123,6 +3436,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_128
       rect:
@@ -2137,6 +3457,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_129
       rect:
@@ -2151,6 +3478,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_130
       rect:
@@ -2165,6 +3499,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_131
       rect:
@@ -2179,6 +3520,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_132
       rect:
@@ -2193,6 +3541,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_133
       rect:
@@ -2207,6 +3562,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_134
       rect:
@@ -2221,6 +3583,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_135
       rect:
@@ -2235,6 +3604,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_136
       rect:
@@ -2249,6 +3625,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 03405410000000000800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_137
       rect:
@@ -2263,6 +3646,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 23405410000000000800000000000000
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_138
       rect:
@@ -2277,6 +3667,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 43405410000000000800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_139
       rect:
@@ -2291,6 +3688,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 63405410000000000800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_140
       rect:
@@ -2305,6 +3709,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_141
       rect:
@@ -2319,6 +3730,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a3405410000000000800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_142
       rect:
@@ -2333,6 +3751,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c3405410000000000800000000000000
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_143
       rect:
@@ -2347,6 +3772,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e3405410000000000800000000000000
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_144
       rect:
@@ -2361,6 +3793,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 04405410000000000800000000000000
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_145
       rect:
@@ -2375,6 +3814,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 24405410000000000800000000000000
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_146
       rect:
@@ -2389,6 +3835,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 44405410000000000800000000000000
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_147
       rect:
@@ -2403,6 +3856,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 64405410000000000800000000000000
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_148
       rect:
@@ -2417,6 +3877,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 84405410000000000800000000000000
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_149
       rect:
@@ -2431,6 +3898,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a4405410000000000800000000000000
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_150
       rect:
@@ -2445,6 +3919,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c4405410000000000800000000000000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_151
       rect:
@@ -2459,6 +3940,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e4405410000000000800000000000000
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_152
       rect:
@@ -2473,6 +3961,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 05405410000000000800000000000000
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_153
       rect:
@@ -2487,6 +3982,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 25405410000000000800000000000000
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_154
       rect:
@@ -2501,6 +4003,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 45405410000000000800000000000000
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_155
       rect:
@@ -2515,6 +4024,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 65405410000000000800000000000000
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_156
       rect:
@@ -2529,6 +4045,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 85405410000000000800000000000000
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_157
       rect:
@@ -2543,6 +4066,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a5405410000000000800000000000000
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_158
       rect:
@@ -2557,6 +4087,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c5405410000000000800000000000000
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_159
       rect:
@@ -2571,6 +4108,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e5405410000000000800000000000000
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_160
       rect:
@@ -2585,6 +4129,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 06405410000000000800000000000000
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_161
       rect:
@@ -2599,6 +4150,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 26405410000000000800000000000000
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_162
       rect:
@@ -2613,6 +4171,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 46405410000000000800000000000000
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_163
       rect:
@@ -2627,6 +4192,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 66405410000000000800000000000000
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_164
       rect:
@@ -2641,6 +4213,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 86405410000000000800000000000000
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_165
       rect:
@@ -2655,6 +4234,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a6405410000000000800000000000000
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_166
       rect:
@@ -2669,6 +4255,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c6405410000000000800000000000000
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_167
       rect:
@@ -2683,6 +4276,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e6405410000000000800000000000000
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_168
       rect:
@@ -2697,6 +4297,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 07405410000000000800000000000000
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_169
       rect:
@@ -2711,6 +4318,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 27405410000000000800000000000000
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_170
       rect:
@@ -2725,6 +4339,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 47405410000000000800000000000000
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_171
       rect:
@@ -2739,6 +4360,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 67405410000000000800000000000000
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_172
       rect:
@@ -2753,6 +4381,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 87405410000000000800000000000000
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_173
       rect:
@@ -2767,6 +4402,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a7405410000000000800000000000000
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_174
       rect:
@@ -2781,6 +4423,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c7405410000000000800000000000000
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_175
       rect:
@@ -2795,6 +4444,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e7405410000000000800000000000000
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_176
       rect:
@@ -2809,6 +4465,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 08405410000000000800000000000000
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_177
       rect:
@@ -2823,6 +4486,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 28405410000000000800000000000000
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_178
       rect:
@@ -2837,6 +4507,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 48405410000000000800000000000000
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_179
       rect:
@@ -2851,6 +4528,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 68405410000000000800000000000000
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_180
       rect:
@@ -2865,6 +4549,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 88405410000000000800000000000000
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_181
       rect:
@@ -2879,6 +4570,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a8405410000000000800000000000000
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_182
       rect:
@@ -2893,6 +4591,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c8405410000000000800000000000000
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_183
       rect:
@@ -2907,6 +4612,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e8405410000000000800000000000000
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_184
       rect:
@@ -2921,6 +4633,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 09405410000000000800000000000000
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_185
       rect:
@@ -2935,6 +4654,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 29405410000000000800000000000000
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_186
       rect:
@@ -2949,6 +4675,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 49405410000000000800000000000000
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_187
       rect:
@@ -2963,6 +4696,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 69405410000000000800000000000000
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_188
       rect:
@@ -2977,6 +4717,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 89405410000000000800000000000000
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_189
       rect:
@@ -2991,6 +4738,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a9405410000000000800000000000000
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_190
       rect:
@@ -3005,6 +4759,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c9405410000000000800000000000000
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_191
       rect:
@@ -3019,6 +4780,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e9405410000000000800000000000000
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_192
       rect:
@@ -3033,6 +4801,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0a405410000000000800000000000000
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_193
       rect:
@@ -3047,6 +4822,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2a405410000000000800000000000000
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_194
       rect:
@@ -3061,6 +4843,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4a405410000000000800000000000000
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_195
       rect:
@@ -3075,6 +4864,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6a405410000000000800000000000000
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_196
       rect:
@@ -3089,6 +4885,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8a405410000000000800000000000000
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_197
       rect:
@@ -3103,6 +4906,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: aa405410000000000800000000000000
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_198
       rect:
@@ -3117,6 +4927,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ca405410000000000800000000000000
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_199
       rect:
@@ -3131,6 +4948,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ea405410000000000800000000000000
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_200
       rect:
@@ -3145,6 +4969,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0b405410000000000800000000000000
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_201
       rect:
@@ -3159,6 +4990,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2b405410000000000800000000000000
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: fullsheet_202
       rect:
@@ -3173,9 +5011,26 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4b405410000000000800000000000000
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
